@@ -68,6 +68,10 @@ npm start
 cd ../inotebook
 npm start
 ```
+For both start together run this commands:
+npm run both
+this will automatically run both fronted and backend
+
 
 7. Open your browser and navigate to `http://localhost:3000`
 
