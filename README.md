@@ -35,7 +35,7 @@ iNotebook is a full-stack web application built with the MERN stack (MongoDB, Ex
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/inotebook.git
+git clone https://github.com/AliCodeStorm/iNoteBook
 cd inotebook
 ```
 
